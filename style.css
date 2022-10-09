@@ -156,6 +156,9 @@ p {
   color: var(--color-light-grey);
 }
 
+.attribution { font-size: 11px; text-align: center; color: white;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
 @media screen and (max-width: 375px) {
   .component {
     width: 350px;
